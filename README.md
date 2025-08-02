@@ -70,7 +70,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: destamamo123@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/desalegnmamo](https://linkedin.com/in/desalegnmamo)  
+- 🌐 LinkedIn: [linkedin.com/in/desalegn-mamo](https://linkedin.com/in/desalegn-mamo)  
 - 🧪 Portfolio site: Coming soon!
 
 ---
@@ -78,6 +78,6 @@
 <p align="center">
   <b>💡 Building Africa's tech future — one test case and one line of code at a time.</b>
 </p>
-)  
+  
 
 
