@@ -1,31 +1,83 @@
-# 👋 Hello, I'm Desalegn Mamo
+<h1 align="center">👋 Hi, I'm Desalegn Mamo</h1>
 
-🚀 Passionate QA Engineer | 🌍 Tech-for-Africa Advocate | 🤖 AI & Cybersecurity Explorer  
-🔧 Mechanical Engineer turned Tech Builder | 🇪🇹 From Ethiopia, building for the world  
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Quality Assurance Engineer at StartupAgile.ai** with a background in **System Support** and **QA Testing** at Perago Information Systems. My mission is to use **technology to empower Africa**, starting with robust and secure software solutions.
-
-Currently diving deep into:
-- 🔍 **Manual & Automated QA**
-- ⚙️ **API Testing** with Postman, Newman, and CI/CD
-- 🌐 **Web UI Testing** with Selenium (Python, POM)
-- 🔐 **Ethical Hacking & Cybersecurity**
-- 🧠 **AI Agent Development & Machine Learning**
-
-I believe in **continuous learning**, **open-source contribution**, and **building scalable tech** that solves real problems — especially in education, sustainability, and fintech.
+<p align="center">
+  🚀 QA Engineer | 🤖 AI Explorer | 🌱 Sustainability Advocate  
+  <br>
+  🇪🇹 Addis Ababa, Ethiopia |  
+<p align="center">
+  <a href="mailto:destamamo123@gmail.com"><img src="https://img.shields.io/badge/Email-destamamo123@gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/desalegnmamo"><img src="https://img.shields.io/badge/LinkedIn-DesalegnMamo-blue?style=flat&logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=DesalegnMamo&style=flat&color=blue" alt="Profile views"/>
+</p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧠 Who Am I?
 
-```python
-Languages:   Python | JavaScript | Java | Shell | HTML/CSS | SQL
-Testing:     Selenium | Postman | Newman | JMeter | PyTest | Cucumber | Gherkin | Behave
-Dev Tools:   Git | GitHub | GitHub Actions | Jira | Docker
-AI & Data:   Pandas | NumPy | OpenAI | LangChain | Scikit-learn
-Cloud & Infra: AWS (S3, EC2 basics), Firebase (basic), Netlify, Vercel
-Web Dev:     React | TailwindCSS | Vite | Redux Toolkit | Django (learning) | Vue(learning) | Postgresql | FastAPI
+- 🔍 **QA Engineer** at [StartupAgile.ai](https://startupagile.ai)
+- 💻 Ex-QA & Support at **Perago Information Systems**
+- 🤖 Building my AI journey with a **Python-based AI Agent Course**
+- ⚙️ Tools I use: `Selenium`, `Postman`, `Newman`, `GitHub Actions`, `Pytest`, `JMeter`
+
+---
+
+## 🌟 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+![JMeter](https://img.shields.io/badge/-JMeter-333?style=flat&logo=apachejmeter)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=githubactions)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+
+---
+
+## 🔭 Projects I'm Building
+
+| 🚧 Project       | ⚡ Description |
+|------------------|----------------|
+| 🌍 **EthSync**     | AI-driven platform analyzing Ethiopian businesses for growth insights |
+| 🌱 **CrowdfundET** | Ethiopian-friendly crowdfunding & micro-lending platform |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Desalegn23&show_icons=true&theme=radical" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Desalegn23&theme=radical" width="47%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desalegn23&layout=compact&theme=radical" width="47%">
+</p>
+
+---
+
+## 🛠 Currently Learning
+
+- 🌐 Advanced Selenium + CI/CD workflows
+- 🤖 AI Agents, LangChain, Vector DBs
+- ⚔️ Ethical Hacking & Cybersecurity
+- 📱 React Native for Android apps
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: destamamo123@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/desalegnmamo](https://linkedin.com/in/desalegnmamo)  
+- 🧪 Portfolio site: Coming soon!
+
+---
+
+<p align="center">
+  <b>💡 Building Africa's tech future — one test case and one line of code at a time.</b>
+</p>
+)  
+
+
