@@ -1,14 +1,21 @@
 <h1 align="center">👋 Hi, I'm Desalegn Mamo</h1>
 
 <p align="center">
-  🚀 QA Engineer | 🤖 AI Explorer | 🌱 Sustainability Advocate  
-  <br>
-  🇪🇹 Addis Ababa, Ethiopia |  
-<p align="center">
-  <a href="mailto:destamamo123@gmail.com"><img src="https://img.shields.io/badge/Email-destamamo123@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://linkedin.com/in/desalegnmamo"><img src="https://img.shields.io/badge/LinkedIn-DesalegnMamo-blue?style=flat&logo=linkedin"></a>
-  <img src="https://komarev.com/ghpvc/?username=DesalegnMamo&style=flat&color=blue" alt="Profile views"/>
+  🚀 QA Engineer • 🤖 AI & Automation Explorer • 🌱 Sustainability Advocate  
+  <br/>
+  🇪🇹 Addis Ababa, Ethiopia
 </p>
+
+<p align="center">
+  <a href="mailto:destamamo123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-destamamo123@gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/desalegn-mamo">
+    <img src="https://img.shields.io/badge/LinkedIn-Desalegn%20Mamo-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Desalegn23&style=flat&color=blue" alt="profile views"/>
+</p>
+
 
 ---
 
